@@ -1,0 +1,33 @@
+.bgImage {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  font-size: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  /* text-align: center; */
+}
+
+.centerImage {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.textLevels{
+    font-style: italic;
+    color: grey;
+    font-size: 42px;
+}
+
+.textExercise {
+    color: black;
+    font-size: 26px;
+
+}
+
