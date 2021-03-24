@@ -12,7 +12,7 @@ export default function TemplateThree() {
           <Typography variant="h5">Button and Icon leads Home</Typography>
         </Grid>
         <Grid item>
-          <HomeIcon />
+          <HomeIcon onClick={() => window.open('/')} />
         </Grid>
         <Grid item>
           <Button variant="contained" color="primary" href="/">
