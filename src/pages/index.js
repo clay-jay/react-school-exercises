@@ -19,6 +19,10 @@ const IndexPage = () => (
     <p className="textExercise">
       <Link to="/level2/">Map and If Map</Link> <br />
     </p>
+    <p className="textLevels">Уровень 3</p>
+    <p className="textExercise">
+      <Link to="/level3/">Accordion</Link> <br />
+    </p>
   </Layout>
 )
 
