@@ -12,6 +12,12 @@ const IndexPage = () => (
       <Link to="/template1/">Шаблон №1</Link> <br />
       <Link to="/template2">Шаблон №2</Link> <br />
       <Link to="/combination/">Объединение</Link> <br />
+      <Link to="/combination2/">Объединение v2</Link> <br />
+      <Link to="/combination2/">Объединение v2</Link> <br />
+    </p>
+    <p className="textLevels">Уровень 2</p>
+    <p className="textExercise">
+      <Link to="/level2/">Map and If Map</Link> <br />
     </p>
   </Layout>
 )
